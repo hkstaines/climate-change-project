@@ -1,0 +1,1 @@
+This project uses data from the Notre Dame Global Adaptation Initiative for vulnerability and readiness to climate change, and greenhouse gas data from Our World in Data. Its purpose is to map the data to visualise the level of each country's vulnerability, readiness and contribution with respect to climate change. 
